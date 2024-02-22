@@ -10,7 +10,6 @@ I've decided to change industries, while pursing my part-time math degree,  As o
 ### 😮 What have I worked on? </br>
 Take a look here! <!-- add link here -->
 </br>
-</br>
 I have multiple projects revolving
 + Querying data using SQL
 + Performing ad-hoc data analysis using SQL
