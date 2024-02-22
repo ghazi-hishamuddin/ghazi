@@ -8,7 +8,7 @@ Greetings, I'm Ghazi! For the last 3 years I was a learning designer for schools
 I've decided to change industries, while pursing my part-time math degree,  As on 2023, I have started self-learning data analytics and will be learning ML in the near future!
 </br>
 ### 😮 What have I worked on? </br>
-Take a look here! <!-- add link here -->
+Take a look here! <!-- add link here --> </br>
 I have multiple projects revolving
 + Querying data using SQL
 + Performing ad-hoc data analysis using SQL
