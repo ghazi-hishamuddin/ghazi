@@ -18,4 +18,5 @@ I have multiple projects revolving
 
 Take a look here!
 
-![Ghazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghazi-hishamuddin&show_icons=true&theme=tokyonight)
+🎧 What am I listening to?
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ghazishm&count=1)
