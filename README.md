@@ -17,3 +17,5 @@ I have multiple projects revolving
 + EDA on Python
 
 Take a look here!
+
+![Ghazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghazi-hishamuddin&show_icons=true&theme=tokyonight)
