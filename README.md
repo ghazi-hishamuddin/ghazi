@@ -16,5 +16,4 @@ I have multiple projects revolving
 + Performing ad-hoc data analysis using SQL
 + Database design
 + EDA on Python
-Take a look here! <!-- add link here -->
 </br>
