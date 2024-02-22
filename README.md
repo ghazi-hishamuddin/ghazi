@@ -4,12 +4,12 @@
 ### 👋 Who are you? </br>
 Greetings, I'm Ghazi! For the last 3 years I was a learning designer for schools in the education industry. I'm discovering a new passion in working with data.
 </br>
-</br>
 ### 🤔 What am I doing on GitHub? </br>
 I've decided to change industries, while pursing my part-time math degree,  As on 2023, I have started self-learning data analytics and will be learning ML in the near future!
 </br>
-</br>
 ### 😮 What have I worked on? </br>
+Take a look here! <!-- add link here -->
+</br>
 I have multiple projects revolving
 + Querying data using SQL
 + Performing ad-hoc data analysis using SQL
@@ -17,12 +17,10 @@ I have multiple projects revolving
 + EDA on Python
 Take a look here! <!-- add link here -->
 </br>
-</br>
 ### 🛠️ What tools do I use? </br>
 + Language: SQL, Python
 + Database: MSSQL, MySQL
 + Visualization: Tableau, PowerBI
-</br>
 </br>
 ### 🎧 What am I listening to? </br>
 </br>
