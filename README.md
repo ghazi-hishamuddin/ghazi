@@ -18,12 +18,14 @@ I have multiple projects revolving
 Take a look here! <!-- add link here -->
 </br>
 </br>
+
 ### 🛠️ What tools do I use? </br>
 + Language: SQL, Python
 + Database: MSSQL, MySQL
 + Visualization: Tableau, PowerBI
 </br>
 </br>
+
 ###🎧 What am I listening to? </br>
 </br>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ghazishm&count=1) </br>
