@@ -1,5 +1,5 @@
 ### Welcome to my GitHub profile! 🙋🏽‍♂️
-![alt text](https://github.com/ghazi-hishamuddin/ghazi-hishamuddin/assets/142828521/fdc54748-068a-47a7-92d1-afae9ea455ba)
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/ghazi-hishamuddin/ghazi-hishamuddin/assets/142828521/fdc54748-068a-47a7-92d1-afae9ea455ba" height="100" /></a>
 
 👋 Who are you?
 <pre>
