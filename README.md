@@ -9,7 +9,11 @@
 
 
 🤔 What am I doing on GitHub?
-+ I've decided to change industries while pursing my part-time applied math degree. As on 2023, I have started self-learning data analytics and ML.\
+<pre>
+  While pursing my part-time math degree, I've decided to change industries. As on 2023, I have started self-learning data analytics.
+  I hope to break into ML in the near future
+</pre>
+
 
 😮 What have I worked on?
 I have multiple projects revolving
