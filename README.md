@@ -3,7 +3,8 @@
 
 <pre>
   👋 Who are you?
-  + Greetings, I'm Ghazi! For the last 3 years I was a learning designer for schools in the education industry. I'm discovering a new passion in working with data.
+  Greetings, I'm Ghazi! For the last 3 years I was a learning designer for schools in the education industry. 
+  I'm discovering a new passion in working with data.
 </pre>
 
 
