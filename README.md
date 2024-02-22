@@ -19,4 +19,4 @@ I have multiple projects revolving
 Take a look here!
 
 🎧 What am I listening to?
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ghazishm&count=1)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ghazishm&count=1)
