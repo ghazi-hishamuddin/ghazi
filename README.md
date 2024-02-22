@@ -1,9 +1,17 @@
-### Introducing Me 🙋🏽‍♂️
+### Welcome to my GitHub profile! 🙋🏽‍♂️
 ![alt text](https://github.com/ghazi-hishamuddin/ghazi-hishamuddin/assets/142828521/fdc54748-068a-47a7-92d1-afae9ea455ba)
 
-Greetings, I'm Ghazi, a Data Analyst skilled in data analysis, reporting, query optimization, data modeling and database design.
+👋 Who are you?
++ Greetings, I'm Ghazi. For the last 3 years I was a learning designer for schools in the education industry.
 
-+ Querying data using SQL.
-+ Generate reports and perform ad-hoc data analysis using SQL.
-+ Developing dashboards on Tableau and PowerBI.
-+ Data analysis and reporting using Google Sheets and Excel.
+🤔 What am I doing on GitHub?
++ I've decided to change industries and started self-learning data analytics and ML.
+
+😮 What have I worked on?
+I have multiple projects revolving
++ Querying data using SQL
++ Performing ad-hoc data analysis using SQL
++ Database design
++ EDA on Python
+
+Take a look here!
