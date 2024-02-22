@@ -10,10 +10,18 @@ I've decided to change industries, while pursing my part-time math degree,  As o
 ### 😮 What have I worked on? </br>
 Take a look here! <!-- add link here -->
 </br>
+</br>
 I have multiple projects revolving
 + Querying data using SQL
 + Performing ad-hoc data analysis using SQL
 + Database design
 + EDA on Python
-</br>
-### 🛠️ What tools do I use? </br>
+
+### 🛠️ What tools do I use?
++ Language: SQL, Python
++ Database: MySQL, MSSQL
++ Visualization: Tableau, Looker Studio
+
+### 🎧 What am I listening to?
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ghazishm&count=1)
+  
