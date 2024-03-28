@@ -17,7 +17,7 @@ I have multiple projects revolving
 
 ### 🛠️ What tools do I use?
 + Language: SQL, Python
-+ Database: MySQL, MSSQL
++ Database: MySQL, PostgreSQL, MSSQL
 + Visualization: Tableau, Looker Studio
 
 ### 🎧 What am I listening to?
