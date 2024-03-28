@@ -11,9 +11,9 @@ I've decided to change industries, while pursing my part-time math degree.  As o
 Take a look <a href="https://github.com/ghazi-hishamuddin/Portfolio-Guide">here</a>! <!-- add link here --> </br>
 I have multiple projects revolving
 + Querying data using SQL
-+ Performing ad-hoc data analysis using SQL
++ EDA with Python 
 + Database design
-+ EDA on Python
++ Creating visualizations using BI tools
 
 ### 🛠️ What tools do I use?
 + Language: SQL, Python
